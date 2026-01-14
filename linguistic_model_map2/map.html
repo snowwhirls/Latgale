@@ -116,7 +116,7 @@
             secondaryLengthUnit: 'kilometers',
             primaryAreaUnit: 'sqmeters',
             secondaryAreaUnit: 'hectares'
-        });
+       });
         measureControl.addTo(map);
         document.getElementsByClassName('leaflet-control-measure-toggle')[0].innerHTML = '';
         document.getElementsByClassName('leaflet-control-measure-toggle')[0].className += ' fas fa-ruler';
@@ -675,7 +675,13 @@
         function pop_tochkilatgalian_towns_copy_copy_1(feature, layer) {
             var popupContent = '<table>\
                     <tr>\
-                        <td colspan="2">' + (feature.properties['top_var'] !== null ? autolinker.link(String(feature.properties['top_var']).replace(/'/g, '\'').toLocaleString()) : '') + '</td>\
+                        <td class="visible-with-data" id="Official toponym frequency" colspan="2"><strong>Official toponym frequency</strong><br />' + (feature.properties['Official toponym frequency'] !== null ? autolinker.link(String(feature.properties['Official toponym frequency']).replace(/'/g, '\'').toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2"><strong>Toponym Variants</strong><br />' + (feature.properties['Toponym Variants'] !== null ? autolinker.link(String(feature.properties['Toponym Variants']).replace(/'/g, '\'').toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2"><strong>Total toponym frequency</strong><br />' + (feature.properties['Total toponym frequency'] !== null ? autolinker.link(String(feature.properties['Total toponym frequency']).replace(/'/g, '\'').toLocaleString()) : '') + '</td>\
                     </tr>\
                 </table>';
             var content = removeEmptyRowsFromPopupContent(popupContent, feature);
@@ -686,7 +692,7 @@
         }
 
         function style_tochkilatgalian_towns_copy_copy_1_0(feature) {
-            switch(String(feature.properties['Adm_unit'])) {
+            switch(String(feature.properties['Administrative Unit'])) {
                 case 'Capital City':
                     return {
                 pane: 'pane_tochkilatgalian_towns_copy_copy_1',
@@ -796,7 +802,7 @@
                 feature: layer.feature,
                 variables: {}
             };
-            layer.bindTooltip((layer.feature.properties['Vse_toponimy'] !== null?String('<div style="color: #323232; font-size: 10pt; font-family: \'Open Sans\', sans-serif;">' + layer.feature.properties['Vse_toponimy']) + '</div>':''), {permanent: true, offset: [-0, -16], className: 'css_tochkilatgalian_towns_copy_copy_1'});
+            layer.bindTooltip((layer.feature.properties['Name in Latgalian'] !== null?String('<div style="color: #323232; font-size: 10pt; font-family: \'Open Sans\', sans-serif;">' + layer.feature.properties['Name in Latgalian']) + '</div>':''), {permanent: true, offset: [-0, -16], className: 'css_tochkilatgalian_towns_copy_copy_1'});
             labels.push(layer);
             totalMarkers += 1;
               layer.added = true;
