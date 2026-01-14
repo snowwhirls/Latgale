@@ -124,6 +124,8 @@
         function setBounds() {
             if (bounds_group.getLayers().length) {
                 map.fitBounds(bounds_group.getBounds());
+                map.setMinZoom(map.getZoom());
+                map.setMaxZoom(map.getZoom() + 5);
             }
         }
         function pop_ne_10m_admin_0_countries_0(feature, layer) {
