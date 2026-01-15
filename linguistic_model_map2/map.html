@@ -675,13 +675,13 @@
         function pop_tochkilatgalian_towns_copy_copy_1(feature, layer) {
             var popupContent = '<table>\
                     <tr>\
-                        <td class="visible-with-data" id="Official toponym frequency" colspan="2"><strong>Official toponym frequency</strong><br />' + (feature.properties['Official toponym frequency'] !== null ? autolinker.link(String(feature.properties['Official toponym frequency']).replace(/'/g, '\'').toLocaleString()) : '') + '</td>\
+                        <td colspan="2"><strong>Official toponym frequency</strong><br />' + (feature.properties['Official toponym frequency'] !== null ? autolinker.link(String(feature.properties['Official toponym frequency']).replace(/'/g, '\'').toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2"><strong>Toponym overall frequency</strong><br />' + (feature.properties['Toponym overall frequency'] !== null ? autolinker.link(String(feature.properties['Toponym overall frequency']).replace(/'/g, '\'').toLocaleString()) : '') + '</td>\
                     </tr>\
                     <tr>\
                         <td class="visible-with-data" id="Toponym Variants" colspan="2"><strong>Toponym Variants</strong><br />' + (feature.properties['Toponym Variants'] !== null ? autolinker.link(String(feature.properties['Toponym Variants']).replace(/'/g, '\'').toLocaleString()) : '') + '</td>\
-                    </tr>\
-                    <tr>\
-                        <td colspan="2"><strong>Total toponym frequency</strong><br />' + (feature.properties['Total toponym frequency'] !== null ? autolinker.link(String(feature.properties['Total toponym frequency']).replace(/'/g, '\'').toLocaleString()) : '') + '</td>\
                     </tr>\
                 </table>';
             var content = removeEmptyRowsFromPopupContent(popupContent, feature);

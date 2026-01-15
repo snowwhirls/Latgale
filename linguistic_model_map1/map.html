@@ -675,16 +675,16 @@
         function pop_tochkilatgalian_towns_copy_copy_1(feature, layer) {
             var popupContent = '<table>\
                     <tr>\
-                        <td class="visible-with-data" id="Name in Latgalian" colspan="2"><strong>Name in Latgalian</strong><br />' + (feature.properties['Name in Latgalian'] !== null ? autolinker.link(String(feature.properties['Name in Latgalian']).replace(/'/g, '\'').toLocaleString()) : '') + '</td>\
+                        <td colspan="2"><strong>Name in Latgalian</strong><br />' + (feature.properties['Name in Latgalian'] !== null ? autolinker.link(String(feature.properties['Name in Latgalian']).replace(/'/g, '\'').toLocaleString()) : '') + '</td>\
                     </tr>\
                     <tr>\
-                        <td class="visible-with-data" id="Name in Latvian" colspan="2"><strong>Name in Latvian</strong><br />' + (feature.properties['Name in Latvian'] !== null ? autolinker.link(String(feature.properties['Name in Latvian']).replace(/'/g, '\'').toLocaleString()) : '') + '</td>\
+                        <td colspan="2"><strong>Name in Latvian</strong><br />' + (feature.properties['Name in Latvian'] !== null ? autolinker.link(String(feature.properties['Name in Latvian']).replace(/'/g, '\'').toLocaleString()) : '') + '</td>\
                     </tr>\
                     <tr>\
-                        <td class="visible-with-data" id="Administrative Unit" colspan="2"><strong>Administrative Unit</strong><br />' + (feature.properties['Administrative Unit'] !== null ? autolinker.link(String(feature.properties['Administrative Unit']).replace(/'/g, '\'').toLocaleString()) : '') + '</td>\
+                        <td colspan="2"><strong>Administrative Unit</strong><br />' + (feature.properties['Administrative Unit'] !== null ? autolinker.link(String(feature.properties['Administrative Unit']).replace(/'/g, '\'').toLocaleString()) : '') + '</td>\
                     </tr>\
                     <tr>\
-                        <td class="visible-with-data" id="Toponym Variants" colspan="2"><strong>Toponym Variants</strong><br />' + (feature.properties['Toponym Variants'] !== null ? autolinker.link(String(feature.properties['Toponym Variants']).replace(/'/g, '\'').toLocaleString()) : '') + '</td>\
+                        <td colspan="2"><strong>Total toponym mentions</strong><br />' + (feature.properties['Total toponym mentions'] !== null ? autolinker.link(String(feature.properties['Total toponym mentions']).replace(/'/g, '\'').toLocaleString()) : '') + '</td>\
                     </tr>\
                 </table>';
             var content = removeEmptyRowsFromPopupContent(popupContent, feature);
