@@ -1,1 +1,1307 @@
-var json_tochkilatgalian_towns_copy_copy_1 = {"type":"FeatureCollection","name":"tochkilatgalian_towns_copy_copy_1","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","Name in Latgalian":"Rēzekne","Name in Latvian":"Rēzekne","Administrative Unit":"City","inst":"true","top_diff":"false","art_texts":"true","Hashtags":"rezekne rēzekne #rēzeknē rezeknecity","txt_nm_lgnd":"1, 4, 6, 7, 8","Toponym Variables":"Riezekne (77)","Official toponym frequency":"Rēzekne (95)","mltpl_ltg_var":"true","More_than_1_GO":"false","Can_be_specified":"true","GO_types":null,"Specified_on_Inst":"false","Main_GO":"true","Hashtags used":"#rēzekne","top_freq_INT":95.0,"all_top_freq":172.0,"Toponym overall frequency":"Rēzekne (172)","Toponym Variants":"Riezekne (77)","Total toponym frequency":"Rēzekne (172)"},"geometry":{"type":"Point","coordinates":[27.328461684603933,56.506196165874897]}},{"type":"Feature","properties":{"fid":"2","Name in Latgalian":"Daugovpiļs","Name in Latvian":"Daugavpils","Administrative Unit":"City","inst":"true","top_diff":"true","art_texts":"true","Hashtags":"daugovpiļs daugovpils","txt_nm_lgnd":"1, 6, 8, 9","Toponym Variables":"Daugavpils (11), Dauguopiļs (3), Dinaburga (1)","Official toponym frequency":"Daugovpiļs (80)","mltpl_ltg_var":"true","More_than_1_GO":"false","Can_be_specified":"true","GO_types":null,"Specified_on_Inst":"false","Main_GO":"true","Hashtags used":"#daugovpiļs","top_freq_INT":80.0,"all_top_freq":95.0,"Toponym overall frequency":"Daugovpiļs (95)","Toponym Variants":"Daugavpils (11), Dauguopiļs (3), Dinaburga (1)","Total toponym frequency":"Daugovpiļs (95)"},"geometry":{"type":"Point","coordinates":[26.505546718549972,55.871096178010838]}},{"type":"Feature","properties":{"fid":"3","Name in Latgalian":"Ludza","Name in Latvian":"Ludza","Administrative Unit":"Town","inst":"true","top_diff":"false","art_texts":"true","Hashtags":"ludza ludzā","txt_nm_lgnd":"1, 3, 4, 6, 8","Toponym Variables":"","Official toponym frequency":"Ludza (68)","mltpl_ltg_var":"false","More_than_1_GO":"false","Can_be_specified":"true","GO_types":null,"Specified_on_Inst":"false","Main_GO":"true","Hashtags used":"#ludza","top_freq_INT":68.0,"all_top_freq":68.0,"Toponym overall frequency":"Ludza (68)","Toponym Variants":null,"Total toponym frequency":"Ludza (68)"},"geometry":{"type":"Point","coordinates":[27.723495520400736,56.547645726056714]}},{"type":"Feature","properties":{"fid":"4","Name in Latgalian":"Preili","Name in Latvian":"Preiļi","Administrative Unit":"Town","inst":"true","top_diff":"true","art_texts":"true","Hashtags":"preili","txt_nm_lgnd":"8","Toponym Variables":"Praili (12)","Official toponym frequency":"Preili (18)","mltpl_ltg_var":"true","More_than_1_GO":"false","Can_be_specified":"true","GO_types":null,"Specified_on_Inst":"false","Main_GO":"true","Hashtags used":"#preili","top_freq_INT":18.0,"all_top_freq":30.0,"Toponym overall frequency":"Preili (30)","Toponym Variants":"Praili (12)","Total toponym frequency":"Preili (30)"},"geometry":{"type":"Point","coordinates":[26.726020646642674,56.293700570371904]}},{"type":"Feature","properties":{"fid":"5","Name in Latgalian":"Aglyuna","Name in Latvian":"Aglona","Administrative Unit":"Village","inst":"true","top_diff":"true","art_texts":"true","Hashtags":"aglyuna","txt_nm_lgnd":"8, 9","Toponym Variables":"Aglūna (15)","Official toponym frequency":"Aglyuna (216)","mltpl_ltg_var":"true","More_than_1_GO":"false","Can_be_specified":"true","GO_types":null,"Specified_on_Inst":"false","Main_GO":"true","Hashtags used":"#aglyuna","top_freq_INT":216.0,"all_top_freq":231.0,"Toponym overall frequency":"Aglyuna (231)","Toponym Variants":"Aglūna (15)","Total toponym frequency":"Aglyuna (231)"},"geometry":{"type":"Point","coordinates":[27.008633714750427,56.129465920715433]}},{"type":"Feature","properties":{"fid":"6","Name in Latgalian":"Kruoslova","Name in Latvian":"Krāslava","Administrative Unit":"Town","inst":"true","top_diff":"true","art_texts":"true","Hashtags":"kruoslova","txt_nm_lgnd":"1, 6, 8, 9","Toponym Variables":"Kruoslava (6), Kruoslavka (1)","Official toponym frequency":"Kruoslova (21)","mltpl_ltg_var":"true","More_than_1_GO":"false","Can_be_specified":"true","GO_types":null,"Specified_on_Inst":"false","Main_GO":"true","Hashtags used":"#kruoslova","top_freq_INT":21.0,"all_top_freq":28.0,"Toponym overall frequency":"Kruoslova (28)","Toponym Variants":"Kruoslava (6), Kruoslavka (1)","Total toponym frequency":"Kruoslova (28)"},"geometry":{"type":"Point","coordinates":[27.1607419552519,55.895158056028407]}},{"type":"Feature","properties":{"fid":"7","Name in Latgalian":"Dagda","Name in Latvian":"Dagda","Administrative Unit":"Town","inst":"true","top_diff":"false","art_texts":"true","Hashtags":"dagda","txt_nm_lgnd":"8","Toponym Variables":"","Official toponym frequency":"Dagda (20)","mltpl_ltg_var":"false","More_than_1_GO":"false","Can_be_specified":"true","GO_types":null,"Specified_on_Inst":"false","Main_GO":"true","Hashtags used":"#dagda","top_freq_INT":20.0,"all_top_freq":20.0,"Toponym overall frequency":"Dagda (20)","Toponym Variants":null,"Total toponym frequency":"Dagda (20)"},"geometry":{"type":"Point","coordinates":[27.536608853292211,56.094783816980232]}},{"type":"Feature","properties":{"fid":"8","Name in Latgalian":"Ondrupine","Name in Latvian":"Andrupene","Administrative Unit":"Village","inst":"true","top_diff":"true","art_texts":"true","Hashtags":"ondrupine","txt_nm_lgnd":"9","Toponym Variables":"Ondrupene (20), Andrupene (10), Andrupna (10)","Official toponym frequency":"Ondrupine (27)","mltpl_ltg_var":"true","More_than_1_GO":"false","Can_be_specified":"true","GO_types":null,"Specified_on_Inst":"false","Main_GO":"true","Hashtags used":"#ondrupine","top_freq_INT":27.0,"all_top_freq":77.0,"Toponym overall frequency":"Ondrupine (77)","Toponym Variants":"Ondrupene (20), Andrupene (10), Andrupna (10)","Total toponym frequency":"Ondrupine (77)"},"geometry":{"type":"Point","coordinates":[27.390709112403052,56.183999378219227]}},{"type":"Feature","properties":{"fid":"9","Name in Latgalian":"Viļāni","Name in Latvian":"Viļāni","Administrative Unit":"Town","inst":"true","top_diff":"false","art_texts":"true","Hashtags":"viļāni vilani","txt_nm_lgnd":"4","Toponym Variables":"","Official toponym frequency":"Viļāni (53)","mltpl_ltg_var":"false","More_than_1_GO":"false","Can_be_specified":"true","GO_types":null,"Specified_on_Inst":"false","Main_GO":"true","Hashtags used":"#viļāni","top_freq_INT":53.0,"all_top_freq":53.0,"Toponym overall frequency":"Viļāni (53)","Toponym Variants":null,"Total toponym frequency":"Viļāni (53)"},"geometry":{"type":"Point","coordinates":[26.928175891286337,56.554872853963005]}},{"type":"Feature","properties":{"fid":"10","Name in Latgalian":"Varakļuoni","Name in Latvian":"Varakļāni","Administrative Unit":"Town","inst":"true","top_diff":"true","art_texts":"true","Hashtags":"varakļuoni","txt_nm_lgnd":"4","Toponym Variables":"Vārakļuoni (1), Varakļāni (14)","Official toponym frequency":"Varakļuoni (37)","mltpl_ltg_var":"true","More_than_1_GO":"false","Can_be_specified":"true","GO_types":null,"Specified_on_Inst":"false","Main_GO":"true","Hashtags used":"#varakļuoni","top_freq_INT":37.0,"all_top_freq":52.0,"Toponym overall frequency":"Varakļuoni (52)","Toponym Variants":"Vārakļuoni (1), Varakļāni (14)","Total toponym frequency":"Varakļuoni (52)"},"geometry":{"type":"Point","coordinates":[26.752605297598823,56.608826235570405]}},{"type":"Feature","properties":{"fid":"11","Name in Latgalian":"Auleja","Name in Latvian":"Auleja","Administrative Unit":"Village","inst":"true","top_diff":"false","art_texts":"true","Hashtags":"auleja","txt_nm_lgnd":"8","Toponym Variables":"","Official toponym frequency":"Auleja (41)","mltpl_ltg_var":"false","More_than_1_GO":"false","Can_be_specified":"true","GO_types":null,"Specified_on_Inst":"false","Main_GO":"true","Hashtags used":"#auleja","top_freq_INT":41.0,"all_top_freq":41.0,"Toponym overall frequency":"Auleja (41)","Toponym Variants":null,"Total toponym frequency":"Auleja (41)"},"geometry":{"type":"Point","coordinates":[27.279010263273562,56.056074870144819]}},{"type":"Feature","properties":{"fid":"14","Name in Latgalian":"Rībeni","Name in Latvian":"Riebiņi","Administrative Unit":"Village","inst":"true","top_diff":"true","art_texts":"false","Hashtags":"rībeni","txt_nm_lgnd":"","Toponym Variables":"","Official toponym frequency":"Rībeni (24)","mltpl_ltg_var":"false","More_than_1_GO":"false","Can_be_specified":"true","GO_types":null,"Specified_on_Inst":"false","Main_GO":"true","Hashtags used":"#rībeni","top_freq_INT":24.0,"all_top_freq":24.0,"Toponym overall frequency":"Rībeni (24)","Toponym Variants":null,"Total toponym frequency":"Rībeni (24)"},"geometry":{"type":"Point","coordinates":[26.800527153978472,56.337860753976557]}},{"type":"Feature","properties":{"fid":"17","Name in Latgalian":"Rogovka","Name in Latvian":"Rogovka","Administrative Unit":"Village","inst":"true","top_diff":"false","art_texts":"true","Hashtags":"#rogovka","txt_nm_lgnd":"2, 7","Toponym Variables":"","Official toponym frequency":"4","mltpl_ltg_var":"false","More_than_1_GO":"true","Can_be_specified":"true","GO_types":"Village (1), Mazciems (1)","Specified_on_Inst":"true","Main_GO":"true","Hashtags used":"#rogovka","top_freq_INT":4.0,"all_top_freq":4.0,"Toponym overall frequency":null,"Toponym Variants":null,"Total toponym frequency":null},"geometry":{"type":"Point","coordinates":[27.412576476770372,56.709856958899657]}},{"type":"Feature","properties":{"fid":"18","Name in Latgalian":"Veremi","Name in Latvian":"Veremes","Administrative Unit":"Mazciems","inst":"true","top_diff":"true","art_texts":"false","Hashtags":"#veremi","txt_nm_lgnd":"","Toponym Variables":"Verēmi (2)","Official toponym frequency":"Veremi 10","mltpl_ltg_var":"true","More_than_1_GO":"false","Can_be_specified":"true","GO_types":null,"Specified_on_Inst":"false","Main_GO":"true","Hashtags used":"#veremi","top_freq_INT":10.0,"all_top_freq":12.0,"Toponym overall frequency":"Veremi (12)","Toponym Variants":"Verēmi (2)","Total toponym frequency":null},"geometry":{"type":"Point","coordinates":[27.401652946565846,56.586618493804394]}},{"type":"Feature","properties":{"fid":"19","Name in Latgalian":"Bolvi","Name in Latvian":"Balvi","Administrative Unit":"Town","inst":"true","top_diff":"true","art_texts":"false","Hashtags":"#bolvi","txt_nm_lgnd":"","Toponym Variables":"Balvi (4)","Official toponym frequency":"Bolvi 11","mltpl_ltg_var":"false","More_than_1_GO":"false","Can_be_specified":"true","GO_types":null,"Specified_on_Inst":"false","Main_GO":"true","Hashtags used":"#bolvi","top_freq_INT":11.0,"all_top_freq":15.0,"Toponym overall frequency":"Bolvi (15)","Toponym Variants":"Balvi (4)","Total toponym frequency":null},"geometry":{"type":"Point","coordinates":[27.26401494319332,57.132975391134558]}},{"type":"Feature","properties":{"fid":"20","Name in Latgalian":"Škeltova","Name in Latvian":"Šķeltova","Administrative Unit":"Village","inst":"true","top_diff":"true","art_texts":"false","Hashtags":"#skeltova","txt_nm_lgnd":"","Toponym Variables":"Šķeltava (1)","Official toponym frequency":"Škeltova 12","mltpl_ltg_var":"false","More_than_1_GO":"false","Can_be_specified":"true","GO_types":null,"Specified_on_Inst":"false","Main_GO":"true","Hashtags used":"#skeltova","top_freq_INT":12.0,"all_top_freq":13.0,"Toponym overall frequency":"Škeltova (13)","Toponym Variants":"Šķeltava (1)","Total toponym frequency":null},"geometry":{"type":"Point","coordinates":[27.007606390801293,56.022889797803906]}},{"type":"Feature","properties":{"fid":"21","Name in Latgalian":"Kaunata","Name in Latvian":"Kaunata","Administrative Unit":"Village","inst":"true","top_diff":"false","art_texts":"false","Hashtags":"#kaunata","txt_nm_lgnd":"","Toponym Variables":"Kaunota (2)","Official toponym frequency":"Kaunata 12","mltpl_ltg_var":"true","More_than_1_GO":"false","Can_be_specified":"true","GO_types":null,"Specified_on_Inst":"false","Main_GO":"true","Hashtags used":"#kaunata","top_freq_INT":12.0,"all_top_freq":14.0,"Toponym overall frequency":"Kaunata (14)","Toponym Variants":"Kaunota (2)","Total toponym frequency":null},"geometry":{"type":"Point","coordinates":[27.544072532398786,56.331011305517009]}},{"type":"Feature","properties":{"fid":"22","Name in Latgalian":"Reiga","Name in Latvian":"Rīga","Administrative Unit":"Capital City","inst":"true","top_diff":"true","art_texts":"true","Hashtags":"reiga","txt_nm_lgnd":"1, 2, 4, 6, 8, 10","Toponym Variables":"Rīga (2), Ryga (2)","Official toponym frequency":"Reiga (166)","mltpl_ltg_var":"true","More_than_1_GO":"false","Can_be_specified":"true","GO_types":null,"Specified_on_Inst":"false","Main_GO":"true","Hashtags used":"#reiga","top_freq_INT":166.0,"all_top_freq":170.0,"Toponym overall frequency":"Reiga (170)","Toponym Variants":"Rīga (2), Ryga (2)","Total toponym frequency":"Reiga (170)"},"geometry":{"type":"Point","coordinates":[24.10471656661807,56.948842282705122]}},{"type":"Feature","properties":{"fid":"23","Name in Latgalian":"Felicianova","Name in Latvian":"Felicianova","Administrative Unit":"Village","inst":"true","top_diff":"false","art_texts":"false","Hashtags":"#felicianova","txt_nm_lgnd":"","Toponym Variables":"","Official toponym frequency":"3","mltpl_ltg_var":"false","More_than_1_GO":"true","Can_be_specified":"true","GO_types":"Village (1), Mazciems (1)","Specified_on_Inst":"true","Main_GO":"true","Hashtags used":"#felicianova","top_freq_INT":3.0,"all_top_freq":3.0,"Toponym overall frequency":null,"Toponym Variants":null,"Total toponym frequency":null},"geometry":{"type":"Point","coordinates":[27.868700732731693,56.535451943540224]}},{"type":"Feature","properties":{"fid":"25","Name in Latgalian":"Zosna","Name in Latvian":"Zosna","Administrative Unit":"Village","inst":"true","top_diff":"false","art_texts":"false","Hashtags":"#zosna","txt_nm_lgnd":"","Toponym Variables":"","Official toponym frequency":"4","mltpl_ltg_var":"false","More_than_1_GO":"false","Can_be_specified":"true","GO_types":null,"Specified_on_Inst":"false","Main_GO":"true","Hashtags used":"#zosna","top_freq_INT":4.0,"all_top_freq":4.0,"Toponym overall frequency":null,"Toponym Variants":null,"Total toponym frequency":null},"geometry":{"type":"Point","coordinates":[27.338019959001187,56.328944825593091]}},{"type":"Feature","properties":{"fid":"28","Name in Latgalian":"Atašīne","Name in Latvian":"Atašiene","Administrative Unit":"Village","inst":"true","top_diff":"true","art_texts":"false","Hashtags":"#atašīne","txt_nm_lgnd":"","Toponym Variables":"","Official toponym frequency":"3","mltpl_ltg_var":"false","More_than_1_GO":"false","Can_be_specified":"true","GO_types":null,"Specified_on_Inst":"false","Main_GO":"true","Hashtags used":"#atašīne","top_freq_INT":3.0,"all_top_freq":3.0,"Toponym overall frequency":null,"Toponym Variants":null,"Total toponym frequency":null},"geometry":{"type":"Point","coordinates":[26.397665472034966,56.545936496823415]}},{"type":"Feature","properties":{"fid":"29","Name in Latgalian":"Andeni","Name in Latvian":"Andiņi","Administrative Unit":"Mazciems","inst":"true","top_diff":"true","art_texts":"false","Hashtags":"#andeni","txt_nm_lgnd":"","Toponym Variables":"","Official toponym frequency":"6","mltpl_ltg_var":"false","More_than_1_GO":"true","Can_be_specified":"true","GO_types":"Mazciems (2)","Specified_on_Inst":"true","Main_GO":"true","Hashtags used":"#andeni","top_freq_INT":6.0,"all_top_freq":6.0,"Toponym overall frequency":null,"Toponym Variants":null,"Total toponym frequency":null},"geometry":{"type":"Point","coordinates":[26.50835830918415,56.16443453519048]}},{"type":"Feature","properties":{"fid":"30","Name in Latgalian":"Arendole","Name in Latvian":"Arendole","Administrative Unit":"Mazciems","inst":"true","top_diff":"false","art_texts":"false","Hashtags":"#arendole","txt_nm_lgnd":"","Toponym Variables":"","Official toponym frequency":"2","mltpl_ltg_var":"false","More_than_1_GO":"false","Can_be_specified":"true","GO_types":null,"Specified_on_Inst":"false","Main_GO":"true","Hashtags used":"#arendole","top_freq_INT":2.0,"all_top_freq":2.0,"Toponym overall frequency":null,"Toponym Variants":null,"Total toponym frequency":null},"geometry":{"type":"Point","coordinates":[26.60862177216886,56.149464813646091]}},{"type":"Feature","properties":{"fid":"37","Name in Latgalian":"Īlyukste","Name in Latvian":"Ilūkste","Administrative Unit":"Town","inst":"true","top_diff":"false","art_texts":"false","Hashtags":"#ilūkste #ilukste","txt_nm_lgnd":"","Toponym Variables":"Ilūkste (2)","Official toponym frequency":"Īlyukste 2","mltpl_ltg_var":"true","More_than_1_GO":"false","Can_be_specified":"true","GO_types":null,"Specified_on_Inst":"false","Main_GO":"true","Hashtags used":"#ilūkste","top_freq_INT":2.0,"all_top_freq":4.0,"Toponym overall frequency":null,"Toponym Variants":"Ilūkste (2)","Total toponym frequency":null},"geometry":{"type":"Point","coordinates":[26.296121572996633,55.976691292549276]}},{"type":"Feature","properties":{"fid":"41","Name in Latgalian":"Leidumnīki","Name in Latvian":"Līdumnīki","Administrative Unit":"Mazciems","inst":"true","top_diff":"true","art_texts":"false","Hashtags":"#leidumnīki","txt_nm_lgnd":"","Toponym Variables":"","Official toponym frequency":"3","mltpl_ltg_var":"false","More_than_1_GO":"false","Can_be_specified":"true","GO_types":null,"Specified_on_Inst":"false","Main_GO":"true","Hashtags used":"#leidumnīki","top_freq_INT":3.0,"all_top_freq":3.0,"Toponym overall frequency":null,"Toponym Variants":null,"Total toponym frequency":null},"geometry":{"type":"Point","coordinates":[27.988400774378416,56.591230393737291]}},{"type":"Feature","properties":{"fid":"43","Name in Latgalian":"Oloveca","Name in Latvian":"Oloveca","Administrative Unit":"Mazciems","inst":"true","top_diff":"false","art_texts":"false","Hashtags":"#oloveca","txt_nm_lgnd":"","Toponym Variables":"","Official toponym frequency":"3","mltpl_ltg_var":"false","More_than_1_GO":"false","Can_be_specified":"true","GO_types":null,"Specified_on_Inst":"false","Main_GO":"true","Hashtags used":"#oloveca","top_freq_INT":3.0,"all_top_freq":3.0,"Toponym overall frequency":null,"Toponym Variants":null,"Total toponym frequency":null},"geometry":{"type":"Point","coordinates":[27.450426151321896,56.159658410480539]}},{"type":"Feature","properties":{"fid":"45","Name in Latgalian":"Peipini","Name in Latvian":"Peipiņi","Administrative Unit":"Mazciems","inst":"true","top_diff":"true","art_texts":"false","Hashtags":"#peipini","txt_nm_lgnd":"9","Toponym Variables":"Peipeņi (1)","Official toponym frequency":"Peipini 2","mltpl_ltg_var":"true","More_than_1_GO":"false","Can_be_specified":"true","GO_types":null,"Specified_on_Inst":"false","Main_GO":"true","Hashtags used":"#peipini","top_freq_INT":2.0,"all_top_freq":3.0,"Toponym overall frequency":null,"Toponym Variants":"Peipeņi (1)","Total toponym frequency":null},"geometry":{"type":"Point","coordinates":[27.054089437004343,56.033645501761306]}},{"type":"Feature","properties":{"fid":"49","Name in Latgalian":"Rageļi","Name in Latvian":"Rageļi","Administrative Unit":"Mazciems","inst":"true","top_diff":"false","art_texts":"true","Hashtags":"#rageli","txt_nm_lgnd":"9","Toponym Variables":"","Official toponym frequency":"1","mltpl_ltg_var":"false","More_than_1_GO":"false","Can_be_specified":"true","GO_types":null,"Specified_on_Inst":"false","Main_GO":"true","Hashtags used":"#rageli","top_freq_INT":1.0,"all_top_freq":1.0,"Toponym overall frequency":null,"Toponym Variants":null,"Total toponym frequency":null},"geometry":{"type":"Point","coordinates":[27.160533596346507,56.057949107244909]}},{"type":"Feature","properties":{"fid":"50","Name in Latgalian":"Ruduški","Name in Latvian":"Ruduški","Administrative Unit":"Mazciems","inst":"true","top_diff":"false","art_texts":"false","Hashtags":"#ruduški","txt_nm_lgnd":"","Toponym Variables":"","Official toponym frequency":"2","mltpl_ltg_var":"false","More_than_1_GO":"false","Can_be_specified":"true","GO_types":null,"Specified_on_Inst":"false","Main_GO":"true","Hashtags used":"#ruduški","top_freq_INT":2.0,"all_top_freq":2.0,"Toponym overall frequency":null,"Toponym Variants":null,"Total toponym frequency":null},"geometry":{"type":"Point","coordinates":[27.50630290384635,56.220764610353505]}},{"type":"Feature","properties":{"fid":"51","Name in Latgalian":"Rudzāti","Name in Latvian":"Rudzāti","Administrative Unit":"Village","inst":"true","top_diff":"false","art_texts":"false","Hashtags":"#rudzāti","txt_nm_lgnd":"","Toponym Variables":"","Official toponym frequency":"4","mltpl_ltg_var":"false","More_than_1_GO":"true","Can_be_specified":"true","GO_types":"Village (1), Mazciems (2)","Specified_on_Inst":"false","Main_GO":"true","Hashtags used":"#rudzāti","top_freq_INT":4.0,"all_top_freq":4.0,"Toponym overall frequency":null,"Toponym Variants":null,"Total toponym frequency":null},"geometry":{"type":"Point","coordinates":[26.450505075024129,56.41927659559407]}},{"type":"Feature","properties":{"fid":"53","Name in Latgalian":"Vuorkova","Name in Latvian":"Vārkava","Administrative Unit":"Village","inst":"true","top_diff":"true","art_texts":"true","Hashtags":"#vuorkava","txt_nm_lgnd":"8","Toponym Variables":"","Official toponym frequency":"8","mltpl_ltg_var":"false","More_than_1_GO":"true","Can_be_specified":"true","GO_types":"Village (1), Mazciems (1)","Specified_on_Inst":"false","Main_GO":"true","Hashtags used":"#vuorkava","top_freq_INT":8.0,"all_top_freq":8.0,"Toponym overall frequency":null,"Toponym Variants":null,"Total toponym frequency":null},"geometry":{"type":"Point","coordinates":[26.566773396278087,56.246500806665217]}},{"type":"Feature","properties":{"fid":"54","Name in Latgalian":"Lūznova","Name in Latvian":"Lūznava","Administrative Unit":"Village","inst":"true","top_diff":"true","art_texts":"false","Hashtags":"#lūznava #luznava","txt_nm_lgnd":"","Toponym Variables":"Lūznava (2)","Official toponym frequency":"Lūznova 2","mltpl_ltg_var":"true","More_than_1_GO":"false","Can_be_specified":"true","GO_types":null,"Specified_on_Inst":"false","Main_GO":"true","Hashtags used":"#lūznava","top_freq_INT":2.0,"all_top_freq":4.0,"Toponym overall frequency":null,"Toponym Variants":"Lūznava (2)","Total toponym frequency":null},"geometry":{"type":"Point","coordinates":[27.256978569347691,56.360216655940093]}},{"type":"Feature","properties":{"fid":"61","Name in Latgalian":"Rāzna","Name in Latvian":"Rāzna","Administrative Unit":"Mazciems","inst":"true","top_diff":"false","art_texts":"false","Hashtags":"#rāzna","txt_nm_lgnd":"","Toponym Variables":"","Official toponym frequency":"7","mltpl_ltg_var":"false","More_than_1_GO":"false","Can_be_specified":"true","GO_types":null,"Specified_on_Inst":"false","Main_GO":"true","Hashtags used":"#rāzna","top_freq_INT":7.0,"all_top_freq":7.0,"Toponym overall frequency":null,"Toponym Variants":null,"Total toponym frequency":null},"geometry":{"type":"Point","coordinates":[27.503808622970705,56.295150394881695]}},{"type":"Feature","properties":{"fid":"65","Name in Latgalian":"Rekova","Name in Latvian":"Rekova","Administrative Unit":"Village","inst":"true","top_diff":"false","art_texts":"true","Hashtags":"#rekova","txt_nm_lgnd":"7","Toponym Variables":"","Official toponym frequency":"2","mltpl_ltg_var":"false","More_than_1_GO":"false","Can_be_specified":"true","GO_types":null,"Specified_on_Inst":"false","Main_GO":"true","Hashtags used":"#rekova","top_freq_INT":2.0,"all_top_freq":2.0,"Toponym overall frequency":null,"Toponym Variants":null,"Total toponym frequency":null},"geometry":{"type":"Point","coordinates":[27.616381880977549,57.04503668223186]}},{"type":"Feature","properties":{"fid":"66","Name in Latgalian":"Baļtinova","Name in Latvian":"Baltinava","Administrative Unit":"Village","inst":"true","top_diff":"true","art_texts":"true","Hashtags":"#baltinova","txt_nm_lgnd":"10","Toponym Variables":"Baltinava (4)","Official toponym frequency":"Baļtinova 3","mltpl_ltg_var":"true","More_than_1_GO":"false","Can_be_specified":"true","GO_types":null,"Specified_on_Inst":"false","Main_GO":"true","Hashtags used":"#baltinova","top_freq_INT":3.0,"all_top_freq":7.0,"Toponym overall frequency":null,"Toponym Variants":"Baltinava (4)","Total toponym frequency":null},"geometry":{"type":"Point","coordinates":[27.641377948164713,56.944775505826527]}},{"type":"Feature","properties":{"fid":"69","Name in Latgalian":"Bieržgaļs","Name in Latvian":"Bērzgale","Administrative Unit":"Mazciems","inst":"true","top_diff":"true","art_texts":"false","Hashtags":"#bieržgaļs","txt_nm_lgnd":"","Toponym Variables":"","Official toponym frequency":"4","mltpl_ltg_var":"false","More_than_1_GO":"true","Can_be_specified":"true","GO_types":"Village (1), Mazciems (1)","Specified_on_Inst":"false","Main_GO":"true","Hashtags used":"#bieržgaļs","top_freq_INT":4.0,"all_top_freq":4.0,"Toponym overall frequency":null,"Toponym Variants":null,"Total toponym frequency":null},"geometry":{"type":"Point","coordinates":[27.083867809907964,56.1608353990108]}},{"type":"Feature","properties":{"fid":"72","Name in Latgalian":"Radopole","Name in Latvian":"Radopole","Administrative Unit":"Village","inst":"true","top_diff":"false","art_texts":"true","Hashtags":"#radopole","txt_nm_lgnd":"8","Toponym Variables":"","Official toponym frequency":"1","mltpl_ltg_var":"false","More_than_1_GO":"false","Can_be_specified":"true","GO_types":null,"Specified_on_Inst":"false","Main_GO":"true","Hashtags used":"#radopole","top_freq_INT":1.0,"all_top_freq":1.0,"Toponym overall frequency":null,"Toponym Variants":null,"Total toponym frequency":null},"geometry":{"type":"Point","coordinates":[26.900113168310529,56.51970468965051]}},{"type":"Feature","properties":{"fid":"82","Name in Latgalian":"Pasīne","Name in Latvian":"Pasiene","Administrative Unit":"Village","inst":"true","top_diff":"true","art_texts":"true","Hashtags":"#pasīne","txt_nm_lgnd":"9","Toponym Variables":"Pasiene (1)","Official toponym frequency":"Pasīne 2","mltpl_ltg_var":"true","More_than_1_GO":"false","Can_be_specified":"true","GO_types":"","Specified_on_Inst":"false","Main_GO":"true","Hashtags used":"#pasīne","top_freq_INT":2.0,"all_top_freq":3.0,"Toponym overall frequency":null,"Toponym Variants":"Pasiene (1)","Total toponym frequency":null},"geometry":{"type":"Point","coordinates":[28.158307548151733,56.289559961387155]}}]}
+var json_tochkilatgalian_towns_copy_copy_1 = {
+    "type":  "FeatureCollection",
+    "name":  "tochkilatgalian_towns_copy_copy_1",
+    "crs":  {
+                "type":  "name",
+                "properties":  {
+                                   "name":  "urn:ogc:def:crs:OGC:1.3:CRS84"
+                               }
+            },
+    "features":  [
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "fid":  "1",
+                                            "Name in Latgalian":  "RÄ“zekne",
+                                            "Name in Latvian":  "RÄ“zekne",
+                                            "Administrative Unit":  "City",
+                                            "inst":  "true",
+                                            "top_diff":  "false",
+                                            "art_texts":  "true",
+                                            "Hashtags":  "rezekne rÄ“zekne #rÄ“zeknÄ“ rezeknecity",
+                                            "txt_nm_lgnd":  "1, 4, 6, 7, 8",
+                                            "Toponym Variables":  "Riezekne (77)",
+                                            "Official toponym frequency":  "RÄ“zekne (95)",
+                                            "mltpl_ltg_var":  "true",
+                                            "More_than_1_GO":  "false",
+                                            "Can_be_specified":  "true",
+                                            "GO_types":  null,
+                                            "Specified_on_Inst":  "false",
+                                            "Main_GO":  "true",
+                                            "Hashtags used":  "#rÄ“zekne",
+                                            "top_freq_INT":  95.0,
+                                            "all_top_freq":  172.0,
+                                            "Toponym overall frequency":  "RÄ“zekne (172)",
+                                            "Toponym Variants":  "Riezekne (77)",
+                                            "Total toponym frequency":  "RÄ“zekne (172)"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              27.328461684603933,
+                                                              56.506196165874897
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "fid":  "2",
+                                            "Name in Latgalian":  "DaugovpiÄ¼s",
+                                            "Name in Latvian":  "Daugavpils",
+                                            "Administrative Unit":  "City",
+                                            "inst":  "true",
+                                            "top_diff":  "true",
+                                            "art_texts":  "true",
+                                            "Hashtags":  "daugovpiÄ¼s daugovpils",
+                                            "txt_nm_lgnd":  "1, 6, 8, 9",
+                                            "Toponym Variables":  "Daugavpils (11), DauguopiÄ¼s (3), Dinaburga (1)",
+                                            "Official toponym frequency":  "DaugovpiÄ¼s (80)",
+                                            "mltpl_ltg_var":  "true",
+                                            "More_than_1_GO":  "false",
+                                            "Can_be_specified":  "true",
+                                            "GO_types":  null,
+                                            "Specified_on_Inst":  "false",
+                                            "Main_GO":  "true",
+                                            "Hashtags used":  "#daugovpiÄ¼s",
+                                            "top_freq_INT":  80.0,
+                                            "all_top_freq":  95.0,
+                                            "Toponym overall frequency":  "DaugovpiÄ¼s (95)",
+                                            "Toponym Variants":  "Daugavpils (11), DauguopiÄ¼s (3), Dinaburga (1)",
+                                            "Total toponym frequency":  "DaugovpiÄ¼s (95)"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              26.505546718549972,
+                                                              55.871096178010838
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "fid":  "3",
+                                            "Name in Latgalian":  "Ludza",
+                                            "Name in Latvian":  "Ludza",
+                                            "Administrative Unit":  "Town",
+                                            "inst":  "true",
+                                            "top_diff":  "false",
+                                            "art_texts":  "true",
+                                            "Hashtags":  "ludza ludzÄ",
+                                            "txt_nm_lgnd":  "1, 3, 4, 6, 8",
+                                            "Toponym Variables":  "",
+                                            "Official toponym frequency":  "Ludza (68)",
+                                            "mltpl_ltg_var":  "false",
+                                            "More_than_1_GO":  "false",
+                                            "Can_be_specified":  "true",
+                                            "GO_types":  null,
+                                            "Specified_on_Inst":  "false",
+                                            "Main_GO":  "true",
+                                            "Hashtags used":  "#ludza",
+                                            "top_freq_INT":  68.0,
+                                            "all_top_freq":  68.0,
+                                            "Toponym overall frequency":  "Ludza (68)",
+                                            "Toponym Variants":  null,
+                                            "Total toponym frequency":  "Ludza (68)"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              27.723495520400736,
+                                                              56.547645726056714
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "fid":  "4",
+                                            "Name in Latgalian":  "Preili",
+                                            "Name in Latvian":  "PreiÄ¼i",
+                                            "Administrative Unit":  "Town",
+                                            "inst":  "true",
+                                            "top_diff":  "true",
+                                            "art_texts":  "true",
+                                            "Hashtags":  "preili",
+                                            "txt_nm_lgnd":  "8",
+                                            "Toponym Variables":  "Praili (12)",
+                                            "Official toponym frequency":  "Preili (18)",
+                                            "mltpl_ltg_var":  "true",
+                                            "More_than_1_GO":  "false",
+                                            "Can_be_specified":  "true",
+                                            "GO_types":  null,
+                                            "Specified_on_Inst":  "false",
+                                            "Main_GO":  "true",
+                                            "Hashtags used":  "#preili",
+                                            "top_freq_INT":  18.0,
+                                            "all_top_freq":  30.0,
+                                            "Toponym overall frequency":  "Preili (30)",
+                                            "Toponym Variants":  "Praili (12)",
+                                            "Total toponym frequency":  "Preili (30)"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              26.726020646642674,
+                                                              56.293700570371904
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "fid":  "5",
+                                            "Name in Latgalian":  "Aglyuna",
+                                            "Name in Latvian":  "Aglona",
+                                            "Administrative Unit":  "Village",
+                                            "inst":  "true",
+                                            "top_diff":  "true",
+                                            "art_texts":  "true",
+                                            "Hashtags":  "aglyuna",
+                                            "txt_nm_lgnd":  "8, 9",
+                                            "Toponym Variables":  "AglÅ«na (15)",
+                                            "Official toponym frequency":  "Aglyuna (216)",
+                                            "mltpl_ltg_var":  "true",
+                                            "More_than_1_GO":  "false",
+                                            "Can_be_specified":  "true",
+                                            "GO_types":  null,
+                                            "Specified_on_Inst":  "false",
+                                            "Main_GO":  "true",
+                                            "Hashtags used":  "#aglyuna",
+                                            "top_freq_INT":  216.0,
+                                            "all_top_freq":  231.0,
+                                            "Toponym overall frequency":  "Aglyuna (231)",
+                                            "Toponym Variants":  "AglÅ«na (15)",
+                                            "Total toponym frequency":  "Aglyuna (231)"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              27.008633714750427,
+                                                              56.129465920715433
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "fid":  "6",
+                                            "Name in Latgalian":  "Kruoslova",
+                                            "Name in Latvian":  "KrÄslava",
+                                            "Administrative Unit":  "Town",
+                                            "inst":  "true",
+                                            "top_diff":  "true",
+                                            "art_texts":  "true",
+                                            "Hashtags":  "kruoslova",
+                                            "txt_nm_lgnd":  "1, 6, 8, 9",
+                                            "Toponym Variables":  "Kruoslava (6), Kruoslavka (1)",
+                                            "Official toponym frequency":  "Kruoslova (21)",
+                                            "mltpl_ltg_var":  "true",
+                                            "More_than_1_GO":  "false",
+                                            "Can_be_specified":  "true",
+                                            "GO_types":  null,
+                                            "Specified_on_Inst":  "false",
+                                            "Main_GO":  "true",
+                                            "Hashtags used":  "#kruoslova",
+                                            "top_freq_INT":  21.0,
+                                            "all_top_freq":  28.0,
+                                            "Toponym overall frequency":  "Kruoslova (28)",
+                                            "Toponym Variants":  "Kruoslava (6), Kruoslavka (1)",
+                                            "Total toponym frequency":  "Kruoslova (28)"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              27.1607419552519,
+                                                              55.895158056028407
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "fid":  "7",
+                                            "Name in Latgalian":  "Dagda",
+                                            "Name in Latvian":  "Dagda",
+                                            "Administrative Unit":  "Town",
+                                            "inst":  "true",
+                                            "top_diff":  "false",
+                                            "art_texts":  "true",
+                                            "Hashtags":  "dagda",
+                                            "txt_nm_lgnd":  "8",
+                                            "Toponym Variables":  "",
+                                            "Official toponym frequency":  "Dagda (20)",
+                                            "mltpl_ltg_var":  "false",
+                                            "More_than_1_GO":  "false",
+                                            "Can_be_specified":  "true",
+                                            "GO_types":  null,
+                                            "Specified_on_Inst":  "false",
+                                            "Main_GO":  "true",
+                                            "Hashtags used":  "#dagda",
+                                            "top_freq_INT":  20.0,
+                                            "all_top_freq":  20.0,
+                                            "Toponym overall frequency":  "Dagda (20)",
+                                            "Toponym Variants":  null,
+                                            "Total toponym frequency":  "Dagda (20)"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              27.536608853292211,
+                                                              56.094783816980232
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "fid":  "8",
+                                            "Name in Latgalian":  "Ondrupine",
+                                            "Name in Latvian":  "Andrupene",
+                                            "Administrative Unit":  "Village",
+                                            "inst":  "true",
+                                            "top_diff":  "true",
+                                            "art_texts":  "true",
+                                            "Hashtags":  "ondrupine",
+                                            "txt_nm_lgnd":  "9",
+                                            "Toponym Variables":  "Ondrupene (20), Andrupene (10), Andrupna (10)",
+                                            "Official toponym frequency":  "Ondrupine (27)",
+                                            "mltpl_ltg_var":  "true",
+                                            "More_than_1_GO":  "false",
+                                            "Can_be_specified":  "true",
+                                            "GO_types":  null,
+                                            "Specified_on_Inst":  "false",
+                                            "Main_GO":  "true",
+                                            "Hashtags used":  "#ondrupine",
+                                            "top_freq_INT":  27.0,
+                                            "all_top_freq":  77.0,
+                                            "Toponym overall frequency":  "Ondrupine (77)",
+                                            "Toponym Variants":  "Ondrupene (20), Andrupene (10), Andrupna (10)",
+                                            "Total toponym frequency":  "Ondrupine (77)"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              27.390709112403052,
+                                                              56.183999378219227
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "fid":  "9",
+                                            "Name in Latgalian":  "ViÄ¼Äni",
+                                            "Name in Latvian":  "ViÄ¼Äni",
+                                            "Administrative Unit":  "Town",
+                                            "inst":  "true",
+                                            "top_diff":  "false",
+                                            "art_texts":  "true",
+                                            "Hashtags":  "viÄ¼Äni vilani",
+                                            "txt_nm_lgnd":  "4",
+                                            "Toponym Variables":  "",
+                                            "Official toponym frequency":  "ViÄ¼Äni (53)",
+                                            "mltpl_ltg_var":  "false",
+                                            "More_than_1_GO":  "false",
+                                            "Can_be_specified":  "true",
+                                            "GO_types":  null,
+                                            "Specified_on_Inst":  "false",
+                                            "Main_GO":  "true",
+                                            "Hashtags used":  "#viÄ¼Äni",
+                                            "top_freq_INT":  53.0,
+                                            "all_top_freq":  53.0,
+                                            "Toponym overall frequency":  "ViÄ¼Äni (53)",
+                                            "Toponym Variants":  null,
+                                            "Total toponym frequency":  "ViÄ¼Äni (53)"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              26.928175891286337,
+                                                              56.554872853963005
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "fid":  "10",
+                                            "Name in Latgalian":  "VarakÄ¼uoni",
+                                            "Name in Latvian":  "VarakÄ¼Äni",
+                                            "Administrative Unit":  "Town",
+                                            "inst":  "true",
+                                            "top_diff":  "true",
+                                            "art_texts":  "true",
+                                            "Hashtags":  "varakÄ¼uoni",
+                                            "txt_nm_lgnd":  "4",
+                                            "Toponym Variables":  "VÄrakÄ¼uoni (1), VarakÄ¼Äni (14)",
+                                            "Official toponym frequency":  "VarakÄ¼uoni (37)",
+                                            "mltpl_ltg_var":  "true",
+                                            "More_than_1_GO":  "false",
+                                            "Can_be_specified":  "true",
+                                            "GO_types":  null,
+                                            "Specified_on_Inst":  "false",
+                                            "Main_GO":  "true",
+                                            "Hashtags used":  "#varakÄ¼uoni",
+                                            "top_freq_INT":  37.0,
+                                            "all_top_freq":  52.0,
+                                            "Toponym overall frequency":  "VarakÄ¼uoni (52)",
+                                            "Toponym Variants":  "VÄrakÄ¼uoni (1), VarakÄ¼Äni (14)",
+                                            "Total toponym frequency":  "VarakÄ¼uoni (52)"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              26.752605297598823,
+                                                              56.608826235570405
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "fid":  "11",
+                                            "Name in Latgalian":  "Auleja",
+                                            "Name in Latvian":  "Auleja",
+                                            "Administrative Unit":  "Village",
+                                            "inst":  "true",
+                                            "top_diff":  "false",
+                                            "art_texts":  "true",
+                                            "Hashtags":  "auleja",
+                                            "txt_nm_lgnd":  "8",
+                                            "Toponym Variables":  "",
+                                            "Official toponym frequency":  "Auleja (41)",
+                                            "mltpl_ltg_var":  "false",
+                                            "More_than_1_GO":  "false",
+                                            "Can_be_specified":  "true",
+                                            "GO_types":  null,
+                                            "Specified_on_Inst":  "false",
+                                            "Main_GO":  "true",
+                                            "Hashtags used":  "#auleja",
+                                            "top_freq_INT":  41.0,
+                                            "all_top_freq":  41.0,
+                                            "Toponym overall frequency":  "Auleja (41)",
+                                            "Toponym Variants":  null,
+                                            "Total toponym frequency":  "Auleja (41)"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              27.279010263273562,
+                                                              56.056074870144819
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "fid":  "14",
+                                            "Name in Latgalian":  "RÄ«beni",
+                                            "Name in Latvian":  "RiebiÅ†i",
+                                            "Administrative Unit":  "Village",
+                                            "inst":  "true",
+                                            "top_diff":  "true",
+                                            "art_texts":  "false",
+                                            "Hashtags":  "rÄ«beni",
+                                            "txt_nm_lgnd":  "",
+                                            "Toponym Variables":  "",
+                                            "Official toponym frequency":  "RÄ«beni (24)",
+                                            "mltpl_ltg_var":  "false",
+                                            "More_than_1_GO":  "false",
+                                            "Can_be_specified":  "true",
+                                            "GO_types":  null,
+                                            "Specified_on_Inst":  "false",
+                                            "Main_GO":  "true",
+                                            "Hashtags used":  "#rÄ«beni",
+                                            "top_freq_INT":  24.0,
+                                            "all_top_freq":  24.0,
+                                            "Toponym overall frequency":  "RÄ«beni (24)",
+                                            "Toponym Variants":  null,
+                                            "Total toponym frequency":  "RÄ«beni (24)"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              26.800527153978472,
+                                                              56.337860753976557
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "fid":  "17",
+                                            "Name in Latgalian":  "Rogovka",
+                                            "Name in Latvian":  "Rogovka",
+                                            "Administrative Unit":  "Village",
+                                            "inst":  "true",
+                                            "top_diff":  "false",
+                                            "art_texts":  "true",
+                                            "Hashtags":  "#rogovka",
+                                            "txt_nm_lgnd":  "2, 7",
+                                            "Toponym Variables":  "",
+                                            "Official toponym frequency":  "4",
+                                            "mltpl_ltg_var":  "false",
+                                            "More_than_1_GO":  "true",
+                                            "Can_be_specified":  "true",
+                                            "GO_types":  "Village (1), Mazciems (1)",
+                                            "Specified_on_Inst":  "true",
+                                            "Main_GO":  "true",
+                                            "Hashtags used":  "#rogovka",
+                                            "top_freq_INT":  4.0,
+                                            "all_top_freq":  4.0,
+                                            "Toponym overall frequency":  null,
+                                            "Toponym Variants":  null,
+                                            "Total toponym frequency":  null
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              27.412576476770372,
+                                                              56.709856958899657
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "fid":  "18",
+                                            "Name in Latgalian":  "Veremi",
+                                            "Name in Latvian":  "Veremes",
+                                            "Administrative Unit":  "Mazciems",
+                                            "inst":  "true",
+                                            "top_diff":  "true",
+                                            "art_texts":  "false",
+                                            "Hashtags":  "#veremi",
+                                            "txt_nm_lgnd":  "",
+                                            "Toponym Variables":  "VerÄ“mi (2)",
+                                            "Official toponym frequency":  "Veremi 10",
+                                            "mltpl_ltg_var":  "true",
+                                            "More_than_1_GO":  "false",
+                                            "Can_be_specified":  "true",
+                                            "GO_types":  null,
+                                            "Specified_on_Inst":  "false",
+                                            "Main_GO":  "true",
+                                            "Hashtags used":  "#veremi",
+                                            "top_freq_INT":  10.0,
+                                            "all_top_freq":  12.0,
+                                            "Toponym overall frequency":  "Veremi (12)",
+                                            "Toponym Variants":  "VerÄ“mi (2)",
+                                            "Total toponym frequency":  null
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              27.401652946565846,
+                                                              56.586618493804394
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "fid":  "19",
+                                            "Name in Latgalian":  "Bolvi",
+                                            "Name in Latvian":  "Balvi",
+                                            "Administrative Unit":  "Town",
+                                            "inst":  "true",
+                                            "top_diff":  "true",
+                                            "art_texts":  "false",
+                                            "Hashtags":  "#bolvi",
+                                            "txt_nm_lgnd":  "",
+                                            "Toponym Variables":  "Balvi (4)",
+                                            "Official toponym frequency":  "Bolvi 11",
+                                            "mltpl_ltg_var":  "false",
+                                            "More_than_1_GO":  "false",
+                                            "Can_be_specified":  "true",
+                                            "GO_types":  null,
+                                            "Specified_on_Inst":  "false",
+                                            "Main_GO":  "true",
+                                            "Hashtags used":  "#bolvi",
+                                            "top_freq_INT":  11.0,
+                                            "all_top_freq":  15.0,
+                                            "Toponym overall frequency":  "Bolvi (15)",
+                                            "Toponym Variants":  "Balvi (4)",
+                                            "Total toponym frequency":  null
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              27.26401494319332,
+                                                              57.132975391134558
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "fid":  "20",
+                                            "Name in Latgalian":  "Å keltova",
+                                            "Name in Latvian":  "Å Ä·eltova",
+                                            "Administrative Unit":  "Village",
+                                            "inst":  "true",
+                                            "top_diff":  "true",
+                                            "art_texts":  "false",
+                                            "Hashtags":  "#skeltova",
+                                            "txt_nm_lgnd":  "",
+                                            "Toponym Variables":  "Å Ä·eltava (1)",
+                                            "Official toponym frequency":  "Å keltova 12",
+                                            "mltpl_ltg_var":  "false",
+                                            "More_than_1_GO":  "false",
+                                            "Can_be_specified":  "true",
+                                            "GO_types":  null,
+                                            "Specified_on_Inst":  "false",
+                                            "Main_GO":  "true",
+                                            "Hashtags used":  "#skeltova",
+                                            "top_freq_INT":  12.0,
+                                            "all_top_freq":  13.0,
+                                            "Toponym overall frequency":  "Å keltova (13)",
+                                            "Toponym Variants":  "Å Ä·eltava (1)",
+                                            "Total toponym frequency":  null
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              27.007606390801293,
+                                                              56.022889797803906
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "fid":  "21",
+                                            "Name in Latgalian":  "Kaunata",
+                                            "Name in Latvian":  "Kaunata",
+                                            "Administrative Unit":  "Village",
+                                            "inst":  "true",
+                                            "top_diff":  "false",
+                                            "art_texts":  "false",
+                                            "Hashtags":  "#kaunata",
+                                            "txt_nm_lgnd":  "",
+                                            "Toponym Variables":  "Kaunota (2)",
+                                            "Official toponym frequency":  "Kaunata 12",
+                                            "mltpl_ltg_var":  "true",
+                                            "More_than_1_GO":  "false",
+                                            "Can_be_specified":  "true",
+                                            "GO_types":  null,
+                                            "Specified_on_Inst":  "false",
+                                            "Main_GO":  "true",
+                                            "Hashtags used":  "#kaunata",
+                                            "top_freq_INT":  12.0,
+                                            "all_top_freq":  14.0,
+                                            "Toponym overall frequency":  "Kaunata (14)",
+                                            "Toponym Variants":  "Kaunota (2)",
+                                            "Total toponym frequency":  null
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              27.544072532398786,
+                                                              56.331011305517009
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "fid":  "22",
+                                            "Name in Latgalian":  "Reiga",
+                                            "Name in Latvian":  "RÄ«ga",
+                                            "Administrative Unit":  "Capital City",
+                                            "inst":  "true",
+                                            "top_diff":  "true",
+                                            "art_texts":  "true",
+                                            "Hashtags":  "reiga",
+                                            "txt_nm_lgnd":  "1, 2, 4, 6, 8, 10",
+                                            "Toponym Variables":  "RÄ«ga (2), Ryga (2)",
+                                            "Official toponym frequency":  "Reiga (166)",
+                                            "mltpl_ltg_var":  "true",
+                                            "More_than_1_GO":  "false",
+                                            "Can_be_specified":  "true",
+                                            "GO_types":  null,
+                                            "Specified_on_Inst":  "false",
+                                            "Main_GO":  "true",
+                                            "Hashtags used":  "#reiga",
+                                            "top_freq_INT":  166.0,
+                                            "all_top_freq":  170.0,
+                                            "Toponym overall frequency":  "Reiga (170)",
+                                            "Toponym Variants":  "RÄ«ga (2), Ryga (2)",
+                                            "Total toponym frequency":  "Reiga (170)"
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              24.10471656661807,
+                                                              56.948842282705122
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "fid":  "23",
+                                            "Name in Latgalian":  "Felicianova",
+                                            "Name in Latvian":  "Felicianova",
+                                            "Administrative Unit":  "Village",
+                                            "inst":  "true",
+                                            "top_diff":  "false",
+                                            "art_texts":  "false",
+                                            "Hashtags":  "#felicianova",
+                                            "txt_nm_lgnd":  "",
+                                            "Toponym Variables":  "",
+                                            "Official toponym frequency":  "3",
+                                            "mltpl_ltg_var":  "false",
+                                            "More_than_1_GO":  "true",
+                                            "Can_be_specified":  "true",
+                                            "GO_types":  "Village (1), Mazciems (1)",
+                                            "Specified_on_Inst":  "true",
+                                            "Main_GO":  "true",
+                                            "Hashtags used":  "#felicianova",
+                                            "top_freq_INT":  3.0,
+                                            "all_top_freq":  3.0,
+                                            "Toponym overall frequency":  null,
+                                            "Toponym Variants":  null,
+                                            "Total toponym frequency":  null
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              27.868700732731693,
+                                                              56.535451943540224
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "fid":  "25",
+                                            "Name in Latgalian":  "Zosna",
+                                            "Name in Latvian":  "Zosna",
+                                            "Administrative Unit":  "Village",
+                                            "inst":  "true",
+                                            "top_diff":  "false",
+                                            "art_texts":  "false",
+                                            "Hashtags":  "#zosna",
+                                            "txt_nm_lgnd":  "",
+                                            "Toponym Variables":  "",
+                                            "Official toponym frequency":  "4",
+                                            "mltpl_ltg_var":  "false",
+                                            "More_than_1_GO":  "false",
+                                            "Can_be_specified":  "true",
+                                            "GO_types":  null,
+                                            "Specified_on_Inst":  "false",
+                                            "Main_GO":  "true",
+                                            "Hashtags used":  "#zosna",
+                                            "top_freq_INT":  4.0,
+                                            "all_top_freq":  4.0,
+                                            "Toponym overall frequency":  null,
+                                            "Toponym Variants":  null,
+                                            "Total toponym frequency":  null
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              27.338019959001187,
+                                                              56.328944825593091
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "fid":  "28",
+                                            "Name in Latgalian":  "AtaÅ¡Ä«ne",
+                                            "Name in Latvian":  "AtaÅ¡iene",
+                                            "Administrative Unit":  "Village",
+                                            "inst":  "true",
+                                            "top_diff":  "true",
+                                            "art_texts":  "false",
+                                            "Hashtags":  "#ataÅ¡Ä«ne",
+                                            "txt_nm_lgnd":  "",
+                                            "Toponym Variables":  "",
+                                            "Official toponym frequency":  "3",
+                                            "mltpl_ltg_var":  "false",
+                                            "More_than_1_GO":  "false",
+                                            "Can_be_specified":  "true",
+                                            "GO_types":  null,
+                                            "Specified_on_Inst":  "false",
+                                            "Main_GO":  "true",
+                                            "Hashtags used":  "#ataÅ¡Ä«ne",
+                                            "top_freq_INT":  3.0,
+                                            "all_top_freq":  3.0,
+                                            "Toponym overall frequency":  null,
+                                            "Toponym Variants":  null,
+                                            "Total toponym frequency":  null
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              26.397665472034966,
+                                                              56.545936496823415
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "fid":  "29",
+                                            "Name in Latgalian":  "Andeni",
+                                            "Name in Latvian":  "AndiÅ†i",
+                                            "Administrative Unit":  "Mazciems",
+                                            "inst":  "true",
+                                            "top_diff":  "true",
+                                            "art_texts":  "false",
+                                            "Hashtags":  "#andeni",
+                                            "txt_nm_lgnd":  "",
+                                            "Toponym Variables":  "",
+                                            "Official toponym frequency":  "6",
+                                            "mltpl_ltg_var":  "false",
+                                            "More_than_1_GO":  "true",
+                                            "Can_be_specified":  "true",
+                                            "GO_types":  "Mazciems (2)",
+                                            "Specified_on_Inst":  "true",
+                                            "Main_GO":  "true",
+                                            "Hashtags used":  "#andeni",
+                                            "top_freq_INT":  6.0,
+                                            "all_top_freq":  6.0,
+                                            "Toponym overall frequency":  null,
+                                            "Toponym Variants":  null,
+                                            "Total toponym frequency":  null
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              26.50835830918415,
+                                                              56.16443453519048
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "fid":  "30",
+                                            "Name in Latgalian":  "Arendole",
+                                            "Name in Latvian":  "Arendole",
+                                            "Administrative Unit":  "Mazciems",
+                                            "inst":  "true",
+                                            "top_diff":  "false",
+                                            "art_texts":  "false",
+                                            "Hashtags":  "#arendole",
+                                            "txt_nm_lgnd":  "",
+                                            "Toponym Variables":  "",
+                                            "Official toponym frequency":  "2",
+                                            "mltpl_ltg_var":  "false",
+                                            "More_than_1_GO":  "false",
+                                            "Can_be_specified":  "true",
+                                            "GO_types":  null,
+                                            "Specified_on_Inst":  "false",
+                                            "Main_GO":  "true",
+                                            "Hashtags used":  "#arendole",
+                                            "top_freq_INT":  2.0,
+                                            "all_top_freq":  2.0,
+                                            "Toponym overall frequency":  null,
+                                            "Toponym Variants":  null,
+                                            "Total toponym frequency":  null
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              26.60862177216886,
+                                                              56.149464813646091
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "fid":  "41",
+                                            "Name in Latgalian":  "LeidumnÄ«ki",
+                                            "Name in Latvian":  "LÄ«dumnÄ«ki",
+                                            "Administrative Unit":  "Mazciems",
+                                            "inst":  "true",
+                                            "top_diff":  "true",
+                                            "art_texts":  "false",
+                                            "Hashtags":  "#leidumnÄ«ki",
+                                            "txt_nm_lgnd":  "",
+                                            "Toponym Variables":  "",
+                                            "Official toponym frequency":  "3",
+                                            "mltpl_ltg_var":  "false",
+                                            "More_than_1_GO":  "false",
+                                            "Can_be_specified":  "true",
+                                            "GO_types":  null,
+                                            "Specified_on_Inst":  "false",
+                                            "Main_GO":  "true",
+                                            "Hashtags used":  "#leidumnÄ«ki",
+                                            "top_freq_INT":  3.0,
+                                            "all_top_freq":  3.0,
+                                            "Toponym overall frequency":  null,
+                                            "Toponym Variants":  null,
+                                            "Total toponym frequency":  null
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              27.988400774378416,
+                                                              56.591230393737291
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "fid":  "43",
+                                            "Name in Latgalian":  "Oloveca",
+                                            "Name in Latvian":  "Oloveca",
+                                            "Administrative Unit":  "Mazciems",
+                                            "inst":  "true",
+                                            "top_diff":  "false",
+                                            "art_texts":  "false",
+                                            "Hashtags":  "#oloveca",
+                                            "txt_nm_lgnd":  "",
+                                            "Toponym Variables":  "",
+                                            "Official toponym frequency":  "3",
+                                            "mltpl_ltg_var":  "false",
+                                            "More_than_1_GO":  "false",
+                                            "Can_be_specified":  "true",
+                                            "GO_types":  null,
+                                            "Specified_on_Inst":  "false",
+                                            "Main_GO":  "true",
+                                            "Hashtags used":  "#oloveca",
+                                            "top_freq_INT":  3.0,
+                                            "all_top_freq":  3.0,
+                                            "Toponym overall frequency":  null,
+                                            "Toponym Variants":  null,
+                                            "Total toponym frequency":  null
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              27.450426151321896,
+                                                              56.159658410480539
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "fid":  "45",
+                                            "Name in Latgalian":  "Peipini",
+                                            "Name in Latvian":  "PeipiÅ†i",
+                                            "Administrative Unit":  "Mazciems",
+                                            "inst":  "true",
+                                            "top_diff":  "true",
+                                            "art_texts":  "false",
+                                            "Hashtags":  "#peipini",
+                                            "txt_nm_lgnd":  "9",
+                                            "Toponym Variables":  "PeipeÅ†i (1)",
+                                            "Official toponym frequency":  "Peipini 2",
+                                            "mltpl_ltg_var":  "true",
+                                            "More_than_1_GO":  "false",
+                                            "Can_be_specified":  "true",
+                                            "GO_types":  null,
+                                            "Specified_on_Inst":  "false",
+                                            "Main_GO":  "true",
+                                            "Hashtags used":  "#peipini",
+                                            "top_freq_INT":  2.0,
+                                            "all_top_freq":  3.0,
+                                            "Toponym overall frequency":  null,
+                                            "Toponym Variants":  "PeipeÅ†i (1)",
+                                            "Total toponym frequency":  null
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              27.054089437004343,
+                                                              56.033645501761306
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "fid":  "49",
+                                            "Name in Latgalian":  "RageÄ¼i",
+                                            "Name in Latvian":  "RageÄ¼i",
+                                            "Administrative Unit":  "Mazciems",
+                                            "inst":  "true",
+                                            "top_diff":  "false",
+                                            "art_texts":  "true",
+                                            "Hashtags":  "#rageli",
+                                            "txt_nm_lgnd":  "9",
+                                            "Toponym Variables":  "",
+                                            "Official toponym frequency":  "1",
+                                            "mltpl_ltg_var":  "false",
+                                            "More_than_1_GO":  "false",
+                                            "Can_be_specified":  "true",
+                                            "GO_types":  null,
+                                            "Specified_on_Inst":  "false",
+                                            "Main_GO":  "true",
+                                            "Hashtags used":  "#rageli",
+                                            "top_freq_INT":  1.0,
+                                            "all_top_freq":  1.0,
+                                            "Toponym overall frequency":  null,
+                                            "Toponym Variants":  null,
+                                            "Total toponym frequency":  null
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              27.160533596346507,
+                                                              56.057949107244909
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "fid":  "50",
+                                            "Name in Latgalian":  "RuduÅ¡ki",
+                                            "Name in Latvian":  "RuduÅ¡ki",
+                                            "Administrative Unit":  "Mazciems",
+                                            "inst":  "true",
+                                            "top_diff":  "false",
+                                            "art_texts":  "false",
+                                            "Hashtags":  "#ruduÅ¡ki",
+                                            "txt_nm_lgnd":  "",
+                                            "Toponym Variables":  "",
+                                            "Official toponym frequency":  "2",
+                                            "mltpl_ltg_var":  "false",
+                                            "More_than_1_GO":  "false",
+                                            "Can_be_specified":  "true",
+                                            "GO_types":  null,
+                                            "Specified_on_Inst":  "false",
+                                            "Main_GO":  "true",
+                                            "Hashtags used":  "#ruduÅ¡ki",
+                                            "top_freq_INT":  2.0,
+                                            "all_top_freq":  2.0,
+                                            "Toponym overall frequency":  null,
+                                            "Toponym Variants":  null,
+                                            "Total toponym frequency":  null
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              27.50630290384635,
+                                                              56.220764610353505
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "fid":  "51",
+                                            "Name in Latgalian":  "RudzÄti",
+                                            "Name in Latvian":  "RudzÄti",
+                                            "Administrative Unit":  "Village",
+                                            "inst":  "true",
+                                            "top_diff":  "false",
+                                            "art_texts":  "false",
+                                            "Hashtags":  "#rudzÄti",
+                                            "txt_nm_lgnd":  "",
+                                            "Toponym Variables":  "",
+                                            "Official toponym frequency":  "4",
+                                            "mltpl_ltg_var":  "false",
+                                            "More_than_1_GO":  "true",
+                                            "Can_be_specified":  "true",
+                                            "GO_types":  "Village (1), Mazciems (2)",
+                                            "Specified_on_Inst":  "false",
+                                            "Main_GO":  "true",
+                                            "Hashtags used":  "#rudzÄti",
+                                            "top_freq_INT":  4.0,
+                                            "all_top_freq":  4.0,
+                                            "Toponym overall frequency":  null,
+                                            "Toponym Variants":  null,
+                                            "Total toponym frequency":  null
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              26.450505075024129,
+                                                              56.41927659559407
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "fid":  "53",
+                                            "Name in Latgalian":  "Vuorkova",
+                                            "Name in Latvian":  "VÄrkava",
+                                            "Administrative Unit":  "Village",
+                                            "inst":  "true",
+                                            "top_diff":  "true",
+                                            "art_texts":  "true",
+                                            "Hashtags":  "#vuorkava",
+                                            "txt_nm_lgnd":  "8",
+                                            "Toponym Variables":  "",
+                                            "Official toponym frequency":  "8",
+                                            "mltpl_ltg_var":  "false",
+                                            "More_than_1_GO":  "true",
+                                            "Can_be_specified":  "true",
+                                            "GO_types":  "Village (1), Mazciems (1)",
+                                            "Specified_on_Inst":  "false",
+                                            "Main_GO":  "true",
+                                            "Hashtags used":  "#vuorkava",
+                                            "top_freq_INT":  8.0,
+                                            "all_top_freq":  8.0,
+                                            "Toponym overall frequency":  null,
+                                            "Toponym Variants":  null,
+                                            "Total toponym frequency":  null
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              26.566773396278087,
+                                                              56.246500806665217
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "fid":  "54",
+                                            "Name in Latgalian":  "LÅ«znova",
+                                            "Name in Latvian":  "LÅ«znava",
+                                            "Administrative Unit":  "Village",
+                                            "inst":  "true",
+                                            "top_diff":  "true",
+                                            "art_texts":  "false",
+                                            "Hashtags":  "#lÅ«znava #luznava",
+                                            "txt_nm_lgnd":  "",
+                                            "Toponym Variables":  "LÅ«znava (2)",
+                                            "Official toponym frequency":  "LÅ«znova 2",
+                                            "mltpl_ltg_var":  "true",
+                                            "More_than_1_GO":  "false",
+                                            "Can_be_specified":  "true",
+                                            "GO_types":  null,
+                                            "Specified_on_Inst":  "false",
+                                            "Main_GO":  "true",
+                                            "Hashtags used":  "#lÅ«znava",
+                                            "top_freq_INT":  2.0,
+                                            "all_top_freq":  4.0,
+                                            "Toponym overall frequency":  null,
+                                            "Toponym Variants":  "LÅ«znava (2)",
+                                            "Total toponym frequency":  null
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              27.256978569347691,
+                                                              56.360216655940093
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "fid":  "61",
+                                            "Name in Latgalian":  "RÄzna",
+                                            "Name in Latvian":  "RÄzna",
+                                            "Administrative Unit":  "Mazciems",
+                                            "inst":  "true",
+                                            "top_diff":  "false",
+                                            "art_texts":  "false",
+                                            "Hashtags":  "#rÄzna",
+                                            "txt_nm_lgnd":  "",
+                                            "Toponym Variables":  "",
+                                            "Official toponym frequency":  "7",
+                                            "mltpl_ltg_var":  "false",
+                                            "More_than_1_GO":  "false",
+                                            "Can_be_specified":  "true",
+                                            "GO_types":  null,
+                                            "Specified_on_Inst":  "false",
+                                            "Main_GO":  "true",
+                                            "Hashtags used":  "#rÄzna",
+                                            "top_freq_INT":  7.0,
+                                            "all_top_freq":  7.0,
+                                            "Toponym overall frequency":  null,
+                                            "Toponym Variants":  null,
+                                            "Total toponym frequency":  null
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              27.503808622970705,
+                                                              56.295150394881695
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "fid":  "65",
+                                            "Name in Latgalian":  "Rekova",
+                                            "Name in Latvian":  "Rekova",
+                                            "Administrative Unit":  "Village",
+                                            "inst":  "true",
+                                            "top_diff":  "false",
+                                            "art_texts":  "true",
+                                            "Hashtags":  "#rekova",
+                                            "txt_nm_lgnd":  "7",
+                                            "Toponym Variables":  "",
+                                            "Official toponym frequency":  "2",
+                                            "mltpl_ltg_var":  "false",
+                                            "More_than_1_GO":  "false",
+                                            "Can_be_specified":  "true",
+                                            "GO_types":  null,
+                                            "Specified_on_Inst":  "false",
+                                            "Main_GO":  "true",
+                                            "Hashtags used":  "#rekova",
+                                            "top_freq_INT":  2.0,
+                                            "all_top_freq":  2.0,
+                                            "Toponym overall frequency":  null,
+                                            "Toponym Variants":  null,
+                                            "Total toponym frequency":  null
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              27.616381880977549,
+                                                              57.04503668223186
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "fid":  "66",
+                                            "Name in Latgalian":  "BaÄ¼tinova",
+                                            "Name in Latvian":  "Baltinava",
+                                            "Administrative Unit":  "Village",
+                                            "inst":  "true",
+                                            "top_diff":  "true",
+                                            "art_texts":  "true",
+                                            "Hashtags":  "#baltinova",
+                                            "txt_nm_lgnd":  "10",
+                                            "Toponym Variables":  "Baltinava (4)",
+                                            "Official toponym frequency":  "BaÄ¼tinova 3",
+                                            "mltpl_ltg_var":  "true",
+                                            "More_than_1_GO":  "false",
+                                            "Can_be_specified":  "true",
+                                            "GO_types":  null,
+                                            "Specified_on_Inst":  "false",
+                                            "Main_GO":  "true",
+                                            "Hashtags used":  "#baltinova",
+                                            "top_freq_INT":  3.0,
+                                            "all_top_freq":  7.0,
+                                            "Toponym overall frequency":  null,
+                                            "Toponym Variants":  "Baltinava (4)",
+                                            "Total toponym frequency":  null
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              27.641377948164713,
+                                                              56.944775505826527
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "fid":  "69",
+                                            "Name in Latgalian":  "BierÅ¾gaÄ¼s",
+                                            "Name in Latvian":  "BÄ“rzgale",
+                                            "Administrative Unit":  "Mazciems",
+                                            "inst":  "true",
+                                            "top_diff":  "true",
+                                            "art_texts":  "false",
+                                            "Hashtags":  "#bierÅ¾gaÄ¼s",
+                                            "txt_nm_lgnd":  "",
+                                            "Toponym Variables":  "",
+                                            "Official toponym frequency":  "4",
+                                            "mltpl_ltg_var":  "false",
+                                            "More_than_1_GO":  "true",
+                                            "Can_be_specified":  "true",
+                                            "GO_types":  "Village (1), Mazciems (1)",
+                                            "Specified_on_Inst":  "false",
+                                            "Main_GO":  "true",
+                                            "Hashtags used":  "#bierÅ¾gaÄ¼s",
+                                            "top_freq_INT":  4.0,
+                                            "all_top_freq":  4.0,
+                                            "Toponym overall frequency":  null,
+                                            "Toponym Variants":  null,
+                                            "Total toponym frequency":  null
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              27.083867809907964,
+                                                              56.1608353990108
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "fid":  "72",
+                                            "Name in Latgalian":  "Radopole",
+                                            "Name in Latvian":  "Radopole",
+                                            "Administrative Unit":  "Village",
+                                            "inst":  "true",
+                                            "top_diff":  "false",
+                                            "art_texts":  "true",
+                                            "Hashtags":  "#radopole",
+                                            "txt_nm_lgnd":  "8",
+                                            "Toponym Variables":  "",
+                                            "Official toponym frequency":  "1",
+                                            "mltpl_ltg_var":  "false",
+                                            "More_than_1_GO":  "false",
+                                            "Can_be_specified":  "true",
+                                            "GO_types":  null,
+                                            "Specified_on_Inst":  "false",
+                                            "Main_GO":  "true",
+                                            "Hashtags used":  "#radopole",
+                                            "top_freq_INT":  1.0,
+                                            "all_top_freq":  1.0,
+                                            "Toponym overall frequency":  null,
+                                            "Toponym Variants":  null,
+                                            "Total toponym frequency":  null
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              26.900113168310529,
+                                                              56.51970468965051
+                                                          ]
+                                      }
+                     },
+                     {
+                         "type":  "Feature",
+                         "properties":  {
+                                            "fid":  "82",
+                                            "Name in Latgalian":  "PasÄ«ne",
+                                            "Name in Latvian":  "Pasiene",
+                                            "Administrative Unit":  "Village",
+                                            "inst":  "true",
+                                            "top_diff":  "true",
+                                            "art_texts":  "true",
+                                            "Hashtags":  "#pasÄ«ne",
+                                            "txt_nm_lgnd":  "9",
+                                            "Toponym Variables":  "Pasiene (1)",
+                                            "Official toponym frequency":  "PasÄ«ne 2",
+                                            "mltpl_ltg_var":  "true",
+                                            "More_than_1_GO":  "false",
+                                            "Can_be_specified":  "true",
+                                            "GO_types":  "",
+                                            "Specified_on_Inst":  "false",
+                                            "Main_GO":  "true",
+                                            "Hashtags used":  "#pasÄ«ne",
+                                            "top_freq_INT":  2.0,
+                                            "all_top_freq":  3.0,
+                                            "Toponym overall frequency":  null,
+                                            "Toponym Variants":  "Pasiene (1)",
+                                            "Total toponym frequency":  null
+                                        },
+                         "geometry":  {
+                                          "type":  "Point",
+                                          "coordinates":  [
+                                                              28.158307548151733,
+                                                              56.289559961387155
+                                                          ]
+                                      }
+                     }
+                 ]
+}
