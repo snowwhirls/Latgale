@@ -1268,41 +1268,7 @@
             ]
          }
       },
-      {
-         "type":"Feature",
-         "properties":{
-            "fid":"37",
-            "Name in Latgalian":"Īlyukste",
-            "Name in Latvian":"Ilūkste",
-            "Administrative Unit":"Town",
-            "inst":"true",
-            "top_diff":"false",
-            "art_texts":"false",
-            "Hashtags":"#ilūkste #ilukste",
-            "txt_nm_lgnd":"",
-            "Toponym Variables":"Ilūkste (2)",
-            "Official toponym frequency":"Īlyukste 2",
-            "mltpl_ltg_var":"true",
-            "More_than_1_GO":"false",
-            "Can_be_specified":"true",
-            "GO_types":null,
-            "Specified_on_Inst":"false",
-            "Main_GO":"true",
-            "Hashtags used":"#ilūkste",
-            "top_freq_INT":2.0,
-            "Total toponym mentions":4.0,
-            "Toponym overall frequency":null,
-            "Toponym Variants":"Ilūkste (2)",
-            "Total toponym frequency":null
-         },
-         "geometry":{
-            "type":"Point",
-            "coordinates":[
-               26.296121572996633,
-               55.976691292549276
-            ]
-         }
-      },
+      
       {
          "type":"Feature",
          "properties":{
@@ -2843,40 +2809,6 @@
             ]
          }
       },
-      {
-         "type":"Feature",
-         "properties":{
-            "fid":"83",
-            "Name in Latgalian":"Vuorkova",
-            "Name in Latvian":"Vārkava",
-            "Administrative Unit":"Mazciems",
-            "inst":"false",
-            "top_diff":"false",
-            "art_texts":"false",
-            "Hashtags":null,
-            "txt_nm_lgnd":null,
-            "Toponym Variables":"",
-            "Official toponym frequency":"8",
-            "mltpl_ltg_var":"false",
-            "More_than_1_GO":"true",
-            "Can_be_specified":"true",
-            "GO_types":"Village (1), Mazciems (1)",
-            "Specified_on_Inst":"false",
-            "Main_GO":"false",
-            "Hashtags used":null,
-            "top_freq_INT":8.0,
-            "Total toponym mentions":8.0,
-            "Toponym overall frequency":null,
-            "Toponym Variants":null,
-            "Total toponym frequency":null
-         },
-         "geometry":{
-            "type":"Point",
-            "coordinates":[
-               25.935983428631999,
-               56.078098351495122
-            ]
-         }
-      }
+     
    ]
 }
