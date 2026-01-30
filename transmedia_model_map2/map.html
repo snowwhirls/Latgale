@@ -116,7 +116,7 @@
             secondaryLengthUnit: 'kilometers',
             primaryAreaUnit: 'sqmeters',
             secondaryAreaUnit: 'hectares'
-        });
+         }); // начало кода ограничения карты
         measureControl.addTo(map);
         document.getElementsByClassName('leaflet-control-measure-toggle')[0].innerHTML = '';
         document.getElementsByClassName('leaflet-control-measure-toggle')[0].className += ' fas fa-ruler';
@@ -128,7 +128,7 @@
                 map.setMaxZoom(map.getZoom() + 5);
                 map.setMaxBounds(bounds_group.getBounds());
             }
-        }
+        } // конец кода ограничения карты
         function pop_ne_10m_admin_0_countries_0(feature, layer) {
             var popupContent = '<table>\
                     <tr>\
@@ -675,7 +675,16 @@
         function pop_tochkilatgalian_towns_copy_copy_1(feature, layer) {
             var popupContent = '<table>\
                     <tr>\
-                        <td class="visible-with-data" id="Hashtags used" colspan="2"><strong>Hashtags used</strong><br />' + (feature.properties['Hashtags used'] !== null ? autolinker.link(String(feature.properties['Hashtags used']).replace(/'/g, '\'').toLocaleString()) : '') + '</td>\
+                        <th scope="row">Name in Latgalian</th>\
+                        <td>' + (feature.properties['Name in Latgalian'] !== null ? autolinker.link(String(feature.properties['Name in Latgalian']).replace(/'/g, '\'').toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <th scope="row">Name in Latvian</th>\
+                        <td>' + (feature.properties['Name in Latvian'] !== null ? autolinker.link(String(feature.properties['Name in Latvian']).replace(/'/g, '\'').toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <th scope="row">Hashtags used</th>\
+                        <td class="visible-with-data" id="Hashtags used">' + (feature.properties['Hashtags used'] !== null ? autolinker.link(String(feature.properties['Hashtags used']).replace(/'/g, '\'').toLocaleString()) : '') + '</td>\
                     </tr>\
                 </table>';
             var content = removeEmptyRowsFromPopupContent(popupContent, feature);
@@ -692,14 +701,14 @@
                 pane: 'pane_tochkilatgalian_towns_copy_copy_1',
                 radius: 7.0,
                 opacity: 1,
-                color: 'rgba(255,255,255,1.0)',
+                color: 'rgba(0,0,0,1.0)',
                 dashArray: '',
                 lineCap: 'butt',
                 lineJoin: 'miter',
                 weight: 2.0,
                 fill: true,
                 fillOpacity: 1,
-                fillColor: 'rgba(172,27,53,1.0)',
+                fillColor: 'rgba(148,12,12,1.0)',
                 interactive: true,
             }
                     break;
@@ -708,7 +717,7 @@
                 pane: 'pane_tochkilatgalian_towns_copy_copy_1',
                 radius: 6.0,
                 opacity: 1,
-                color: 'rgba(255,255,255,1.0)',
+                color: 'rgba(0,0,0,1.0)',
                 dashArray: '',
                 lineCap: 'butt',
                 lineJoin: 'miter',
@@ -740,7 +749,7 @@
                 pane: 'pane_tochkilatgalian_towns_copy_copy_1',
                 radius: 5.0,
                 opacity: 1,
-                color: 'rgba(255,255,255,1.0)',
+                color: 'rgba(0,0,0,1.0)',
                 dashArray: '',
                 lineCap: 'butt',
                 lineJoin: 'miter',
