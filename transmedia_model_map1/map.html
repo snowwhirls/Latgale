@@ -116,7 +116,7 @@
             secondaryLengthUnit: 'kilometers',
             primaryAreaUnit: 'sqmeters',
             secondaryAreaUnit: 'hectares'
-        }); // начало кода ограничения карты
+         });
         measureControl.addTo(map);
         document.getElementsByClassName('leaflet-control-measure-toggle')[0].innerHTML = '';
         document.getElementsByClassName('leaflet-control-measure-toggle')[0].className += ' fas fa-ruler';
@@ -128,7 +128,7 @@
                 map.setMaxZoom(map.getZoom() + 5);
                 map.setMaxBounds(bounds_group.getBounds());
             }
-        } // конец кода ограничения карты
+        }
         function pop_ne_10m_admin_0_countries_0(feature, layer) {
             var popupContent = '<table>\
                     <tr>\
@@ -692,7 +692,7 @@
                     </tr>\
                     <tr>\
                         <th scope="row">Total toponym mentions</th>\
-                        <td>' + (feature.properties['Total toponym mentions'] !== null ? autolinker.link(String(feature.properties['Total toponym mentions']).replace(/'/g, '\'').toLocaleString()) : '') + '</td>\
+                        <td>' + (feature.properties['Total Toponym Mentions'] !== null ? autolinker.link(String(feature.properties['Total toponym mentions']).replace(/'/g, '\'').toLocaleString()) : '') + '</td>\
                     </tr>\
                 </table>';
             var content = removeEmptyRowsFromPopupContent(popupContent, feature);
